@@ -18,13 +18,20 @@ First, the project needs to be compiled in the command prompt. To do so, I had t
 
 Once this is done, NetBeans creates a directory where the file is located and then returns a line that can be pasted into the command 
 line to run the program.  
- 
+
+
+![alt text](https://github.com/cdikoko/Portfolio/blob/master/Screenshot%20(16).png) 
 
 *	Copy the final line in the picture above.
 *	Paste it into the command line and the program will run.
 
+![alt text](https://github.com/cdikoko/Portfolio/blob/master/Screenshot%20(18).png)
+
 The game can hold only two players; the players must alternate once their turn is over. When the user clicks on “Start”,
 the game begins. Once a winner has been decided, a message appears to state whether player 1 or player 2 has won the match. 
+![alt text](https://github.com/cdikoko/Portfolio/blob/master/Screenshot%20(19).png)
+![alt text](https://github.com/cdikoko/Portfolio/blob/master/Screenshot%20(22).png)
+![alt text](https://github.com/cdikoko/Portfolio/blob/master/Screenshot%20(23).png)
 
 ##Notes
 
@@ -48,4 +55,5 @@ with 9 boxes, that we can then use to create a tic tac toe game, is one thing. R
 difficult than writing the code myself. That is where I struggled the most in this project; understanding my partners mind and the 
 intentions behind his logic. 
 
-
+##Acknowledgements
+Austin Anderson is co-creator of this Tic Tac Toe project.
