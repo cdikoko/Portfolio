@@ -1,10 +1,26 @@
 # Portfolio
-Tic Tac Toe
+##Tic Tac Toe
+
 Introduction
-This project was the final project for Computer Programming II (CS 232). The language we used for this course was Java. Using what we had learnt in class, we were placed into groups of two in order to complete a game of tic tac toe. This project was created using NetBeans, which is a Java-based IDE (integrated development environment). 
-Instructions
-Due to the fact that the project was created in NetBeans, it makes it much easier to run the code. There’s a built-in operation that runs the program from within NetBeans. Below is the procedure I used to run the program. First, the project needs to be compiled in the command prompt. To do so, I had to clean and build my project through NetBeans.
-Once this is done, NetBeans creates a directory where the file is located and then returns a line that can be pasted into the command line to run the program.  
+
+
+This project was the final project for Computer Programming II (CS 232). The language we used for this course was Java. Using what we 
+
+had learnt in class, we were placed into groups of two in order to complete a game of tic tac toe. This project was created using 
+
+NetBeans, which is a Java-based IDE (integrated development environment). 
+
+##Instructions
+
+Due to the fact that the project was created in NetBeans, it makes it much easier to run the code. There’s a built-in operation that 
+
+runs the program from within NetBeans. Below is the procedure I used to run the program.
+
+First, the project needs to be compiled in the command prompt. To do so, I had to clean and build my project through NetBeans.
+
+Once this is done, NetBeans creates a directory where the file is located and then returns a line that can be pasted into the command 
+
+line to run the program.  
  
 
 •	Copy the final line in the picture above
