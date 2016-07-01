@@ -14,6 +14,8 @@ Due to the fact that the project was created in NetBeans, it makes it much easie
 There’s a built-in operation that runs the program from within NetBeans. Below is the procedure I used to run the program.
 First, the project needs to be compiled in the command prompt. To do so, I had to clean and build my project through NetBeans.
 
+![alt text](https://github.com/cdikoko/Portfolio/blob/master/Screenshot%20(14).png "Screenshot (14))
+
 Once this is done, NetBeans creates a directory where the file is located and then returns a line that can be pasted into the command 
 line to run the program.  
  
