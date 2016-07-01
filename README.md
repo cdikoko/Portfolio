@@ -20,7 +20,7 @@ line to run the program.
 
 *	Copy the final line in the picture above.
 *	Paste it into the command line and the program will run.
-  
+
 The game can hold only two players; the players must alternate once their turn is over. When the user clicks on “Start”,
 the game begins. Once a winner has been decided, a message appears to state whether player 1 or player 2 has won the match. 
 
